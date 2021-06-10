@@ -1,5 +1,5 @@
 # safecity-training
-This repository is full dedicated to model training and getting the best model using Jupyter Notebook.
+This repository is fully dedicated to model training and getting the best model using Jupyter Notebook.
 
 
 # SafeCity Sexual Harassment Story Classification
@@ -200,10 +200,8 @@ The code is written in python==3.9.5. If you want to install python,  [Click her
     ```
     
 ## Run
-Run this project using below command on your local machine.
-    ```
-    streamlit run app.py
-    ```    
+You will have to manually run each jupyter notebooks and see the result.
+For web-version using Streamlit : [Click Here](https://github.com/iqbal786786/safecity-streamlit)
 
 ## Deployment on Heroku
 To deploy streamlit project on Heroku. You can follow this video by Krish Naik: [Click Here](https://www.youtube.com/watch?v=IWWu9M-aisA)
@@ -215,15 +213,20 @@ Interpreted both Machine Learning and Deep Learning model using LIME(Local Inter
 
 ## Directory Tree
 ```
-├── Procfile
-├── README.md
-├── app.py
-├── best_cnn2_embedding_mode.hdf5
-├── harass.jpg
-├── requirements.txt
-├── setup.sh
-├── sexualharassment.jpg
-├── tokenizer.jpg
+├───dataset
+│   ├───binary_classification
+│   │   ├───commenting_data
+│   │   ├───groping_data
+│   │   └───ogling_data
+│   └───multilabel_classification
+├───images
+├───jupyter notebooks
+├───model_save
+│   ├───comment_data
+│   ├───grop_data
+│   ├───multi_data
+│   └───ogle_data
+└───research papers
 ```
 ## Future Work
 1. To get more data.
