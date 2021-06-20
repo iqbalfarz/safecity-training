@@ -238,8 +238,9 @@ Interpreted both Machine Learning and Deep Learning model using LIME(Local Inter
 
 ## Technologies used
 [![](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width=200 height=100>](https://scikit-learn.org/stable/)
 [<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/)
-[<img target="_blank" src="https://banner2.cleanpng.com/20180408/jxw/kisspng-tensorflow-deep-learning-keras-machine-learning-ca-thumbtack-5ac9a963b52208.4587965815231655397419.jpg" width=200>](https://www.tensorflow.org/)
+[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width=200>](https://www.tensorflow.org/)
 [<img target="_blank" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width=200>](https://streamlit.io/)
 [<img src="https://www.fullstackpython.com/img/logos/heroku.png" width=200>](https://www.heroku.com/)
 [<img src="https://numpy.org/images/logos/numpy.svg" width=200>](https://www.numpy.org)
